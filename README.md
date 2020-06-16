@@ -3,4 +3,5 @@
 
 
 Problem: www.youtube.com/watch?v=ZYuyRYipZz4
-Tried to implement a random video problem in Python.
+
+I tried to implement this random video problem in Python.
